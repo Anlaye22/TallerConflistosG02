@@ -5,6 +5,8 @@ import java.awt.Dimension;
 import java.awt.event.KeyEvent;
 import java.util.LinkedList;
 
+import javax.swing.text.Position;
+
 
 /**
  * Simple classic game of snake. The snake is put in the middle of the game pane
@@ -49,13 +51,13 @@ public class SnakeModel extends GameModel {
 	 */
 
 	/** Graphical representation of a coin. */
-	private static final GameTile FRUIT_TILE = new RoundTile(new Color(180, 0, 0), Color.RED, 3.0);
+	private static final GameTile FRUIT_TILE = new RoundTile(new Color(180, 0, 0), Color.GREEN, 3.0);
 
 	/** Graphical representation of the snake */
 	private static final GameTile SNAKE_TILE = new RectangularTile(Color.darkGray);
 
 	/** Graphical representation of the snake's head */
-	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.GRAY);
+	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.LIGHT_GRAY);
 	
 	/** Graphical representation of a blank tile. */
 	private static final GameTile BLANK_TILE = new GameTile();
