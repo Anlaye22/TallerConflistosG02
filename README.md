@@ -1,2 +1,2 @@
-![Conflicto1](Users\andre\OneDrive - Escuela Superior Politécnica del Litoral\Escritorio\conflicto1.jpg)
+![Conflicto1](Users\andre\OneDrive\Escritorio\conflicto1.jpg)
 
