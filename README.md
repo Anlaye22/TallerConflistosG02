@@ -1,2 +1,3 @@
-![Conflicto1](Users\andre\OneDrive\Escritorio\conflicto1.jpg)
+![Conflicto1](Imagenes/conflicto1.jpg)
+
 
